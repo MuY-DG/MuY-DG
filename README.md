@@ -31,9 +31,6 @@
         <li>Fun fact：我有时不是在 debug，而是在和电脑进行学术谈判。</li>
       </ul>
     </td>
-    <td width="42%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=MuY-DG&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&custom_title=MuY-DG%20Stats" alt="GitHub stats" />
-    </td>
   </tr>
 </table>
 
@@ -52,33 +49,6 @@
 <img src="https://img.shields.io/badge/Vibe-Build%20First%2C%20Fix%20Later-F43F5E?style=for-the-badge" alt="vibe" />
 
 </div>
-
----
-
-## 今日状态图表
-
-```mermaid
-pie showData
-  title 今日能量分配
-  "写代码" : 35
-  "想点子" : 25
-  "查文档" : 18
-  "假装淡定" : 12
-  "奶茶续航" : 10
-```
-
-```mermaid
-flowchart LR
-  A["灵感突然出现"] --> B{"先写还是先想?"}
-  B -->|"先写"| C["打开编辑器"]
-  B -->|"先想"| D["脑内开会 3 分钟"]
-  D --> C
-  C --> E{"能跑吗?"}
-  E -->|"能"| F["截图留念"]
-  E -->|"不能"| G["查文档 + 改一行"]
-  G --> E
-  F --> H["提交：今天也算赢"]
-```
 
 ---
 
@@ -126,29 +96,8 @@ git push origin imagination
 
 ---
 
-## 想法雷达
 
-```mermaid
-quadrantChart
-  title MuY-DG 的项目坐标系
-  x-axis "靠谱" --> "离谱"
-  y-axis "想想而已" --> "马上开搞"
-  quadrant-1 "奇妙可行区"
-  quadrant-2 "脑洞孵化区"
-  quadrant-3 "冷静围观区"
-  quadrant-4 "危险施工区"
-  "个人主页升级": [0.36, 0.78]
-  "小工具合集": [0.42, 0.64]
-  "让 README 自己整活": [0.78, 0.82]
-  "把报错翻译成人话": [0.66, 0.58]
-  "周末再说": [0.24, 0.25]
-```
 
----
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuY-DG&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
 <img height="165" src="https://streak-stats.demolab.com?user=MuY-DG&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 <br/><br/>
